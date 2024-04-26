@@ -7,6 +7,6 @@ background-color: #383d58;
 }
 .cabeçalho{
     background-color: #383d58;
-    color:white
-    display: flex;
+    color:white;
+    display:"flex";
 }
